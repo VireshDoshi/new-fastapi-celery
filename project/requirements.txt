@@ -1,0 +1,9 @@
+aiofiles==0.7.0
+celery==5.2.0
+fastapi==0.70.0
+Jinja2==2.11.3
+pytest==6.2.5
+redis==3.5.3
+requests==2.26.0
+uvicorn==0.15.0
+flower==1.0.0
